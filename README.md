@@ -1,1 +1,1 @@
-# Example2
+[Add integration instructions here...]
